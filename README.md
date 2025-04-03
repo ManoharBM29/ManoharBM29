@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ManoharBM29
+i am a guy (gay)- 👋 Hi, I’m @ManoharBM29
 - 👀 I’m interested in dance
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on mahendra tech
