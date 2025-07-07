@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ManoharBM29
-- 👀 I’m interested in dance
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on mahendra tech
 - 📫 How to reach me 9845674208
