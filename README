@@ -1,0 +1,23 @@
+# 🇮🇳 India's Crime Data Analysis
+
+A comprehensive data analytics project focused on visualizing crime trends across Indian states using Python and interactive charts.
+
+## 📊 Features
+
+- Crime rate analysis by state and year
+- Interactive visualizations (line, pie, scatter, radar, histogram)
+- Dataset filtering and exploration
+- Built using Pandas, Matplotlib/Plotly, and Flask (backend)
+
+## 🧠 Objective
+
+To help users understand the pattern and severity of crimes in different regions of India through dynamic visualization.
+
+## 🚀 Tech Stack
+
+- Python
+- Pandas, NumPy
+- Matplotlib / Plotly
+- Flask (Backend)
+- HTML/CSS (Frontend)
+
